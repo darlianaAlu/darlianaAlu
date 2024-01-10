@@ -1,8 +1,8 @@
 <h1>Darliana Campos</h1>
 
-Olá! Sou Darliana Campos, formada em Administração. Há algum tempo me interesso pela área de programação, mas agora me decidi mergulhar nesse mundo.
+Olá! Sou Darliana Campos, formada em Administração. Há algum tempo me interesso pela área de programação, mas agora decidi mergulhar de vez nesse mundo.
 Estou cursando a minha segunda faculdade em Tecnologia em Sistemas para Internet pelo Instituto Federal de Mato Grosso do Sul.
-Apesar de não ter experiência profissional na área, sou muito curiosa e por isso sempre estou procurand aprender algo novo.
+Apesar de não ter experiência profissional na área, sou muito curiosa e por isso sempre estou procurando aprender algo novo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlianacampos/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlianaAlu) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:darlianacampos@gmail.com)
 
